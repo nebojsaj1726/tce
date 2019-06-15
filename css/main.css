@@ -45,7 +45,7 @@ body {
 
 .heading-3 {
   font-size: 1.6rem;
-  color: #7F557D; }
+  color: #AB47BC; }
 
 .heading-4 {
   font-size: 1.9rem; }
@@ -55,7 +55,7 @@ body {
     color: #302d30; }
 
 .navbar {
-  background-color: #7F557D;
+  background-color: #AB47BC;
   grid-column: 1 / -1;
   display: flex;
   align-items: center; }
@@ -97,6 +97,9 @@ body {
   @media only screen and (max-width: 37.5em) {
     .header {
       padding: 2rem; } }
+  .header__heading h1 {
+    margin-bottom: .5rem;
+    margin-left: -.8rem; }
   .header__partners-text {
     display: grid;
     grid-template-columns: 1fr max-content 1fr;
@@ -172,7 +175,7 @@ body {
   grid-column-gap: 2.5rem;
   margin-top: 4rem; }
   .days__icon {
-    fill: #7F557D;
+    fill: #AB47BC;
     width: 4.5rem;
     height: 4.5rem;
     grid-row: 1 / span 2;
