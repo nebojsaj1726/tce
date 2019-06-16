@@ -45,7 +45,7 @@ body {
 
 .heading-3 {
   font-size: 1.6rem;
-  color: #AB47BC; }
+  color: #9575CD; }
 
 .heading-4 {
   font-size: 1.9rem; }
@@ -55,7 +55,7 @@ body {
     color: #302d30; }
 
 .navbar {
-  background-color: #AB47BC;
+  background-color: #9575CD;
   grid-column: 1 / -1;
   display: flex;
   align-items: center; }
@@ -175,7 +175,7 @@ body {
   grid-column-gap: 2.5rem;
   margin-top: 4rem; }
   .days__icon {
-    fill: #AB47BC;
+    fill: #9575CD;
     width: 4.5rem;
     height: 4.5rem;
     grid-row: 1 / span 2;
